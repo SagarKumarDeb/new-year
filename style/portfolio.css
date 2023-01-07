@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.nav-title{
+    font-weight: 1600;
+    font-size: 45px;
+}
+.banner{
+    display: flex;
+    align-items: center;
+}
+ 
+
+
+
+img {
+    
+float: right;
+
+}
